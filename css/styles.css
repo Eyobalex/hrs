@@ -1,0 +1,40 @@
+.bg-a {
+  background-color: #5D5C61; }
+
+.bg-b {
+  background-color: #379683; }
+
+.bg-c {
+  background-color: #7395AE; }
+
+.bg-d {
+  background-color: #557A95; }
+
+.bg-e {
+  background-color: #B1A296; }
+
+body {
+  background: url("../img/sam-wermut-wgDejXbm_IY-unsplash.jpg"); }
+
+.container {
+  background-color: #7395AE; }
+
+.active {
+  border-top: 2px solid #B1A296; }
+
+.navbar .container {
+  background-color: inherit; }
+  .navbar .container .nav-item a {
+    color: floralwhite; }
+  .navbar .container .nav-item a:hover {
+    border-top: 2px solid #B1A296;
+    color: #379683; }
+
+.modal-content {
+  background-color: #7395AE; }
+  .modal-content .modal-header {
+    background-color: #5D5C61; }
+    .modal-content .modal-header .close {
+      color: floralwhite; }
+  .modal-content .modal-body {
+    background-color: inherit; }

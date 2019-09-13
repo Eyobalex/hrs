@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bootstrap4/.idea/Bootstrap4.iml" filepath="$PROJECT_DIR$/../Bootstrap4/.idea/Bootstrap4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hrs.iml" filepath="$PROJECT_DIR$/.idea/hrs.iml" />
     </modules>
   </component>
